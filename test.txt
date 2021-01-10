@@ -2,4 +2,4 @@ this is a test.
 this is master branch.
 creating a new branch is quick and simple.
 this is a bug branch test.
-
+Git is a free software.
